@@ -10,6 +10,7 @@ ENC stands for ENCryption. As I mentioned, this file indicates that the data in 
 # [ Installation ]
 ```
 $ pkg update && pkg upgrade 
+$ termux-setup-storage
 $ pkg install python3
 $ pkg install git
 $ git clone https://github.com/SakuraDevOps/EncMarshal-Py3
